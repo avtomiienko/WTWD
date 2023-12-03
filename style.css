@@ -146,7 +146,7 @@ a:hover {
     color: lightgray;
 }
 
-ы .card-price {
+.card-price {
     margin-top: 40px;
 }
 
@@ -173,7 +173,7 @@ a:hover {
 }
 
 .menu-button:hover {
-    background-color: violet;
+    background-color: darkred;
 }
 
 .references {
