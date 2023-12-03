@@ -112,7 +112,7 @@ a:hover {
 
 
 .card button {
-    background-color: blue;
+    background-color: violet;
     color: white;
     text-decoration: none;
     position: absolute;
@@ -173,7 +173,7 @@ a:hover {
 }
 
 .menu-button:hover {
-    background-color: darkred;
+    background-color: violet;
 }
 
 .references {
